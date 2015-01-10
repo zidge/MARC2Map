@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<item xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:georss="http://www.georss.org/georss">
+  <title>Geology, Fort Mcpherson, District of Mackenzie [cartographic material] /</title>
+  <author>
+    Norris, Donald Kring,
+    1924-
+  </author>
+  <dc:type>cartographic</dc:type>
+  <georss:polygon>67 -136 68 -136 68 -134 67 -134 67 -136</georss:polygon>
+  <dc:publisher>Ottawa : Geological Survey of Canada,</dc:publisher>
+  <pubDate>1981.</pubDate>
+  <description>Known as "A" Series map no. 1520A, Geological Survey of Canada. Separate composite legend published as "A" series map 1585A. Includes 2 stratigraphic diagrams, schedule of wells, acknowledgments, index and location maps. </description>
+  <dc:subject>Geology</dc:subject>
+  <dc:subject>Géologie</dc:subject>
+  <dc:identifier>http://apps1.gdr.nrcan.gc.ca/mirage/mirage_list_e.php?id=109651</dc:identifier>
+  <link>http://catalogue.nrcan.gc.ca/opac/en-CA/skin/nrcan-rncan/xml/rdetail.xml?r=8197281</link>
+</item>

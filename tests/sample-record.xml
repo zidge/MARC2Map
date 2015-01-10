@@ -1,0 +1,152 @@
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/MARC21/slim" xmlns:marc="http://www.loc.gov/MARC21/slim" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+  <leader xmlns:marc="http://www.loc.gov/MARC21/slim">01754nem a2200409za 4500</leader>
+  <controlfield tag="005">20100407163708.0</controlfield>
+  <controlfield xmlns:marc="http://www.loc.gov/MARC21/slim" tag="007">aj canzn</controlfield>
+  <controlfield xmlns:marc="http://www.loc.gov/MARC21/slim" tag="007">cr cn ---auaan</controlfield>
+  <controlfield xmlns:marc="http://www.loc.gov/MARC21/slim" tag="008">020517s1981    onc       a  f  0   eng d</controlfield>
+  <datafield xmlns:marc="http://www.loc.gov/MARC21/slim" tag="034" ind1="1" ind2=" ">
+    <subfield code="a">a</subfield>
+    <subfield code="b">250000</subfield>
+    <subfield code="d">W1360000</subfield>
+    <subfield code="e">W1340000</subfield>
+    <subfield code="f">N0680000</subfield>
+    <subfield code="g">N0670000</subfield>
+  </datafield>
+  <datafield xmlns:marc="http://www.loc.gov/MARC21/slim" tag="035" ind1=" " ind2=" ">
+    <subfield code="a">.b11894192</subfield>
+  </datafield>
+  <datafield xmlns:marc="http://www.loc.gov/MARC21/slim" tag="040" ind1=" " ind2=" ">
+    <subfield code="a">CaOOG</subfield>
+    <subfield code="b">eng</subfield>
+    <subfield code="c">CaOOG</subfield>
+  </datafield>
+  <datafield xmlns:marc="http://www.loc.gov/MARC21/slim" tag="041" ind1="0" ind2=" ">
+    <subfield code="a">eng</subfield>
+  </datafield>
+  <datafield xmlns:marc="http://www.loc.gov/MARC21/slim" tag="044" ind1=" " ind2=" ">
+    <subfield code="a">onc</subfield>
+  </datafield>
+  <datafield xmlns:marc="http://www.loc.gov/MARC21/slim" tag="055" ind1=" " ind2=" ">
+    <subfield code="a">G3401 .C5 1910- G4 1520A</subfield>
+  </datafield>
+  <datafield xmlns:marc="http://www.loc.gov/MARC21/slim" tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Norris, Donald Kring,</subfield>
+    <subfield code="d">1924-</subfield>
+  </datafield>
+  <datafield xmlns:marc="http://www.loc.gov/MARC21/slim" tag="245" ind1="1" ind2="0">
+    <subfield code="a">Geology, Fort Mcpherson, District of Mackenzie</subfield>
+    <subfield code="h">[cartographic material] /</subfield>
+    <subfield code="c">geology by D.K. Norris.</subfield>
+  </datafield>
+  <datafield xmlns:marc="http://www.loc.gov/MARC21/slim" tag="255" ind1=" " ind2=" ">
+    <subfield code="a">Scale 1:250 000</subfield>
+    <subfield code="c">(W136&#xB0; - W134&#xB0; / N68&#xB0; - N67&#xB0;).</subfield>
+  </datafield>
+  <datafield xmlns:marc="http://www.loc.gov/MARC21/slim" tag="260" ind1=" " ind2=" ">
+    <subfield code="a">Ottawa :</subfield>
+    <subfield code="b">Geological Survey of Canada,</subfield>
+    <subfield code="c">1981.</subfield>
+  </datafield>
+  <datafield xmlns:marc="http://www.loc.gov/MARC21/slim" tag="300" ind1=" " ind2=" ">
+    <subfield code="a">1 map :</subfield>
+    <subfield code="b">col.</subfield>
+  </datafield>
+  <datafield xmlns:marc="http://www.loc.gov/MARC21/slim" tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Known as "A" Series map no. 1520A, Geological Survey of Canada.</subfield>
+  </datafield>
+  <datafield xmlns:marc="http://www.loc.gov/MARC21/slim" tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Separate composite legend published as "A" series map 1585A.</subfield>
+  </datafield>
+  <datafield xmlns:marc="http://www.loc.gov/MARC21/slim" tag="500" ind1=" " ind2=" ">
+    <subfield code="a">Includes 2 stratigraphic diagrams, schedule of wells, acknowledgments, index and location maps.</subfield>
+  </datafield>
+  <datafield xmlns:marc="http://www.loc.gov/MARC21/slim" tag="650" ind1=" " ind2="4">
+    <subfield code="a">Geology</subfield>
+    <subfield code="z">Northwest Territories</subfield>
+    <subfield code="z">Fort McPherson region</subfield>
+    <subfield code="v">Maps</subfield>
+  </datafield>
+  <datafield xmlns:marc="http://www.loc.gov/MARC21/slim" tag="650" ind1=" " ind2="4">
+    <subfield code="a">G&#xE9;ologie</subfield>
+    <subfield code="z">Territoires du Nord-Ouest</subfield>
+    <subfield code="z">Fort McPherson, R&#xE9;gion de</subfield>
+    <subfield code="v">Cartes</subfield>
+  </datafield>
+  <datafield xmlns:marc="http://www.loc.gov/MARC21/slim" tag="830" ind1=" " ind2="0">
+    <subfield code="a">"A" series map (Geological Survey of Canada) ;</subfield>
+    <subfield code="v">1520A</subfield>
+  </datafield>
+  <datafield tag="830" ind1="" ind2="0">
+    <subfield xmlns:marc="http://www.loc.gov/MARC21/slim" code="a">Carte s&#xE9;rie "A" (Commission g&#xE9;ologique du Canada) ;</subfield>
+    <subfield code="v">1520A</subfield>
+  </datafield>
+  <datafield xmlns:marc="http://www.loc.gov/MARC21/slim" tag="850" ind1="0" ind2="1">
+    <subfield code="a">OOG</subfield>
+    <subfield code="m">G3401 .C5 1910- G4</subfield>
+  </datafield>
+  <datafield xmlns:marc="http://www.loc.gov/MARC21/slim" tag="850" ind1="0" ind2="0">
+    <subfield code="a">BVAG</subfield>
+  </datafield>
+  <datafield xmlns:marc="http://www.loc.gov/MARC21/slim" tag="856" ind1="4" ind2=" ">
+    <subfield code="u">http://apps1.gdr.nrcan.gc.ca/mirage/mirage_list_e.php?id=109651</subfield>
+    <subfield code="z">Digital version</subfield>
+  </datafield>
+  <datafield xmlns:marc="http://www.loc.gov/MARC21/slim" tag="920" ind1=" " ind2=" ">
+    <subfield code="a">106M</subfield>
+  </datafield>
+  <datafield xmlns:marc="http://www.loc.gov/MARC21/slim" tag="991" ind1=" " ind2=" ">
+    <subfield code="a">ma</subfield>
+  </datafield>
+  <datafield xmlns:marc="http://www.loc.gov/MARC21/slim" tag="945" ind1=" " ind2=" ">
+    <subfield code="l">obmap</subfield>
+    <subfield code="u">1520A</subfield>
+    <subfield code="c">3</subfield>
+    <subfield code="p">$0.00</subfield>
+    <subfield code="z">.i14405404</subfield>
+  </datafield>
+  <datafield xmlns:marc="http://www.loc.gov/MARC21/slim" tag="945" ind1=" " ind2=" ">
+    <subfield code="l">ommc</subfield>
+    <subfield code="u">1520A</subfield>
+    <subfield code="c">2</subfield>
+    <subfield code="d">03168457</subfield>
+    <subfield code="p">$0.00</subfield>
+    <subfield code="z">.i1456581x</subfield>
+  </datafield>
+  <datafield xmlns:marc="http://www.loc.gov/MARC21/slim" tag="945" ind1=" " ind2=" ">
+    <subfield code="l">vgovm</subfield>
+    <subfield code="a">-</subfield>
+    <subfield code="u">1520A</subfield>
+    <subfield code="c">1</subfield>
+    <subfield code="p">$0.00</subfield>
+    <subfield code="z">.i1440543x</subfield>
+  </datafield>
+  <datafield xmlns:marc="http://www.loc.gov/MARC21/slim" tag="945" ind1=" " ind2=" ">
+    <subfield code="l">cmap</subfield>
+    <subfield code="a">-</subfield>
+    <subfield code="c">1</subfield>
+    <subfield code="d">31095417</subfield>
+    <subfield code="p">$0.00</subfield>
+    <subfield code="z">.i14637595</subfield>
+  </datafield>
+  <datafield xmlns:marc="http://www.loc.gov/MARC21/slim" tag="945" ind1=" " ind2=" ">
+    <subfield code="l">cmap</subfield>
+    <subfield code="a">-</subfield>
+    <subfield code="c">2</subfield>
+    <subfield code="d">31095664</subfield>
+    <subfield code="p">$0.00</subfield>
+    <subfield code="z">.i14637601</subfield>
+  </datafield>
+  <datafield xmlns:marc="http://www.loc.gov/MARC21/slim" tag="945" ind1=" " ind2=" ">
+    <subfield code="l">cmap</subfield>
+    <subfield code="a">-</subfield>
+    <subfield code="c">3</subfield>
+    <subfield code="d">31095607</subfield>
+    <subfield code="p">$0.00</subfield>
+    <subfield code="z">.i14637613</subfield>
+  </datafield>
+  <datafield xmlns:marc="http://www.loc.gov/MARC21/slim" tag="901" ind1=" " ind2=" ">
+    <subfield code="a">b11894192</subfield>
+    <subfield code="b">Innovative</subfield>
+    <subfield code="c">8197281</subfield>
+  </datafield>
+</record>
